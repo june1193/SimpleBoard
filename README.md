@@ -42,7 +42,7 @@ RESTful API로 만들어줘
 
 host: localhost
 port: 3306
-database: myappdb
+database: simpleapp
 username: root
 password: XXXXXXXXX
 
